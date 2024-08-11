@@ -11,8 +11,7 @@ This project focuses on analyzing music store data with SQL. The dataset has 11 
 	- [Question Set 2 - Moderate](#question-set-2---moderate)
 	- [Question Set 3 - Advanced](#question-set-3---advanced)
 - [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
